@@ -9,7 +9,6 @@
 -[رزومه](https://zahra682.github.io)
 
 
--[sop]-(https://github.com/zahra682/sop/blob/main/index.html)
-
+-[sop]-(https://github.com/zahra682/sop)
 
 
